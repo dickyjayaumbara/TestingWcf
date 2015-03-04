@@ -1,0 +1,6 @@
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\bin\Debug\WcfTestingForWGS.dll.config
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\bin\Debug\WcfTestingForWGS.dll
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\bin\Debug\WcfTestingForWGS.pdb
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\obj\Debug\WcfTestingForWGS.csprojResolveAssemblyReference.cache
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\obj\Debug\WcfTestingForWGS.dll
+D:\Data Kerjaan\BELAJAR\Testing WGS\WcfTestingForWGS\WcfTestingForWGS\obj\Debug\WcfTestingForWGS.pdb

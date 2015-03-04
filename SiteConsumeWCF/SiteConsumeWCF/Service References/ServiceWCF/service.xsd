@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Perkalian">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="angkaPertama" type="xs:decimal" />
+        <xs:element minOccurs="0" name="angkaKedua" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PerkalianResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PerkalianResult" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Pembagian">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="angkaPertama" type="xs:decimal" />
+        <xs:element minOccurs="0" name="angkaKedua" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PembagianResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PembagianResult" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Penjumlahan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="angkaPertama" type="xs:decimal" />
+        <xs:element minOccurs="0" name="angkaKedua" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PenjumlahanResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PenjumlahanResult" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Pengurangan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="angkaPertama" type="xs:decimal" />
+        <xs:element minOccurs="0" name="angkaKedua" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PenguranganResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PenguranganResult" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
